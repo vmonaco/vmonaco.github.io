@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Example1"
+title: "Example1"
 author: "Vinnie"
 ---
 
