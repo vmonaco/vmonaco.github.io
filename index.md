@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+<img align="right" src="assets/monaco.jpg">
+
 I am an Assistant Professor of Computer Science at the Naval Postgraduate School in Monterey, CA. Previously, I was a Computer Scientist at the U.S. Army Research Laboratory (ARL) and Adjunct Professor at Pace University.
 
 My research focuses on the statistical modeling of user and device behavior, security and privacy in human-computer interaction, and leveraging neural-inspired architectures to solve computationally-hard problems.
