@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img align="right" src="assets/monaco.jpeg">
+<img style=”float: right; padding: 0px 0px 0px 5px;” src="assets/monaco.jpeg">
 
 I am an Assistant Professor of Computer Science at the Naval Postgraduate School in Monterey, CA. Previously, I was a Computer Scientist at the U.S. Army Research Laboratory (ARL) and Adjunct Professor at Pace University.
 
