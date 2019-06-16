@@ -52,8 +52,8 @@ From 2016-2018, I was a Postdoc and then Computer Scientist at the U.S. Army Res
 * 1st Place, [The Second Eye Movements Verification and Identification Competition](http://www.emvic.org)
 * One of Westchester's [Top Professionals Under 30](http://www.westchestermagazine.com/914-INC/Q2-2013/Wunderkinds-2013-John-Vincent-Monaco-24/)
 
-Select publications
-===================
+# Select publications
+***
 
 See the [full list](/publications) and [Google Scholar](http://scholar.google.com/citations?user=iG64YJUAAAAJ&hl=en).
 

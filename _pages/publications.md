@@ -9,8 +9,8 @@ Note: "Vinnie" is a nickname - my full name is John Vincent Monaco.
 
 For a complete list of papers, see my [Google Scholar profile](https://scholar.google.com/citations?user=iG64YJUAAAAJ).
 
-Conference
-==========
+# Conference
+***
 
 * **What Are You Searching For?: A Remote Keylogging Attack on Search Engine Autocomplete** \\
 *John V. Monaco* \\
@@ -120,9 +120,8 @@ D. Paul Benjamin, *John V. Monaco*, Yixia Lin, Damian M. Lyons \\
 Damian M. Lyons, Sirhan Chaudhry, Marius Agica, *John V. Monaco* \\
 SPIE Defense, Security, and Sensing (DSS 2010) \[[pdf](/papers/Integrating%20perception%20and%20problem%20solving%20to%20predict%20complex%20object%20behaviours.pdf)\]
 
-Journal
-=======
-
+# Journal
+***
 
 * **General Semiparametric Shared Frailty Model Estimation and Simulation with frailtySurv** \\
 *John V. Monaco*, Malka Gorfine, Li Hsu \\
@@ -156,29 +155,29 @@ Artificial Intelligence Research, 2015 \[[pdf](/papers/Using%20a%20predefined%20
 Lohit Jain, *John V. Monaco*, Michael J. Coakley, Charles C. Tappert \\
 International Journal of Research in Computer Applications & Information Technology, 2014 \[[pdf](/papers/Passcode%20Keystroke%20Biometric%20Performance%20on%20Smartphone%20Touchscreens%20is%20Superior%20to%20that%20on%20Hardware%20Keyboards.pdf)\]
 
-Patents
-=======
+# Patents
+***
 
 * **Universal Keyboard** \\
 Jordan A. Berger, *John V. Monaco* \\
 US Patent No 9,864,516. Filed on 27 July 2015. Published on 9 Jan 2018.
 
-Posters
-=======
+# Posters
+***
 
 * **Poster: The Side Channel Menagerie** \\
 *John V. Monaco* \\
 39th IEEE Symposium on Security and Privacy, 2018. \[[pdf](/papers/Poster%20-%20The%20Side%20Channel%20Menagerie.pdf)\]
 
-Drafts
-======
+# Drafts
+***
 
 * **Robust Keystroke Biometric Anomaly Detection** \\
 *John V. Monaco* \\
 arXiv preprint arXiv:1606.09075, 2016. \[[pdf](http://arxiv.org/pdf/1606.09075.pdf)\]
 
-Theses
-======
+# Theses
+***
 
 * **Time intervals as a Behavioral Biometric** \\
 *John V. Monaco* \\
