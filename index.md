@@ -11,16 +11,29 @@ From 2016-2018, I was a Postdoc and then Computer Scientist at the U.S. Army Res
 
 # News
 ***
-*   Member of the [WTMC'19](http://wtmc.info/index.html) Program Committee
-*   Gave an invited talk at the 20th Monterey Workshop on Cyber
-*   Joined NPS as an Assistant Professor of Computer Science (tenure track)
-*   SoK paper on keylogging side channels accepted to [S&P'18](https://www.ieee-security.org/TC/SP2018/)
-*   Best Paper @ [ISCAS'17](http://iscas2017.org/) for work on [factoring integers with a neuromorphic processor](https://arxiv.org/pdf/1703.03768.pdf)
+* Autocomplete side channel paper accepted to USENIX'19
+* Member of the [WTMC'19](http://wtmc.info/index.html) Program Committee
+* Gave an invited talk at the 20th Monterey Workshop on Cyber
+* Joined NPS as an Assistant Professor of Computer Science (August, 2018)
+* SoK paper on keylogging side channels accepted to [S&P'18](https://www.ieee-security.org/TC/SP2018/)
+* Best Paper @ [ISCAS'17](http://iscas2017.org/) for work on [factoring integers with a neuromorphic processor](https://arxiv.org/pdf/1703.03768.pdf)
 
 # Students
 ***
-* LCDR Nathan Richardson
-* Maj Lucas Burke
+
+### PhD students
+* Kasey Miller (measuring reliability in systems of systems)
+
+### MS students
+* Maj Ryan Keller (modeling trust between human and AI)
+* LT Mark Veazey (Internet-scale keystroke biometrics and privacy)
+* LT Rouben Azad (modeling ship behavior using AIS)
+* LTJG Peter Goodwin (obfuscating keystroke dynamics)
+* Michael Walker (author identification through text composition)
+
+### MS Alumni
+* LCDR Nathan Richardson (eliciting identifying behavior from a social engineer)
+* Maj Lucas Burke  (eliciting identifying behavior from a social engineer)
 
 # Teaching
 ***
@@ -39,8 +52,35 @@ From 2016-2018, I was a Postdoc and then Computer Scientist at the U.S. Army Res
 * 1st Place, [The Second Eye Movements Verification and Identification Competition](http://www.emvic.org)
 * One of Westchester's [Top Professionals Under 30](http://www.westchestermagazine.com/914-INC/Q2-2013/Wunderkinds-2013-John-Vincent-Monaco-24/)
 
-# Select publications
-***
+Select publications
+===================
+
+See the [full list](/publications) and [Google Scholar](http://scholar.google.com/citations?user=iG64YJUAAAAJ&hl=en).
+
+* **What Are You Searching For?: A Remote Keylogging Attack on Search Engine Autocomplete** \\
+*John V. Monaco* \\
+28th USENIX Security Symposium (USENIX 2019) \[[pdf]()\] \[[code](https://github.com/vmonaco/kreep/)\]
+
+* **SoK: Keylogging Side Channels** \\
+*John V. Monaco* \\
+39th IEEE Symposium on Security and Privacy, 2018 \[[pdf](/papers/SoK%20-%20Keylogging%20Side%20Channels.pdf)\] \[[slides](/papers/SoK-%20Keylogging%20Side%20Channels%20slides.pdf)\]
+
+* **Factoring Integers with a Brain-Inspired Computer** \\
+*John V. Monaco*, Manuel M. Vindiola \\
+IEEE Transactions on Circuits and Systems I, 2017 \[[pdf](/papers/Factoring%20Integers%20With%20a%20Brain-Inspired%20Computer.pdf)\]
+
+* **The Partially Observable Hidden Markov Model and its Application to Keystroke Dynamics** \\
+*John V. Monaco*, Charles C Tappert \\
+Pattern Recognition, 2017 \[[pdf](http://arxiv.org/pdf/1607.03854.pdf)\]
 
 # Contact
 ***
+Email: contact at [this domain]
+
+Find me on:
+
+*   [Twitter](https://twitter.com/vinmonaco)
+*   [Github](https://github.com/vmonaco)
+*   [ResearchGate](https://www.researchgate.net/profile/Vinnie_Monaco)
+*   [LinkedIn](http://www.linkedin.com/in/vmonaco)
+*   [Google Scholar](http://scholar.google.com/citations?user=iG64YJUAAAAJ&hl=en)
