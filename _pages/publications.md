@@ -68,23 +68,23 @@ EDSIG Conference on Information Systems and Computing Education (EDSIGCON, 2015)
 
 * **Authentication and identification methods used in keystroke biometric systems** \\
 Md Liakat Ali, Charles C. Tappert, Meikang Qiu, *John V. Monaco* \\
-17th IEEE International Conference on High Performance Computing and Communications (HPCC 2015) \[[pdf](/papers/Authentication and Identification Methods Used in Keystroke Biometric Systems.pdf)\]\[[slides](/papers/bigdatasecurity2015keystroke.pdf)\]
+17th IEEE International Conference on High Performance Computing and Communications (HPCC 2015) \[[pdf](/papers/Authentication and Identification Methods Used in Keystroke Biometric Systems.pdf)\] \[[slides](/papers/bigdatasecurity2015keystroke.pdf)\]
 
 * **Spoofing key-press latencies with a generative keystroke dynamics model** \\
 *John V. Monaco*, Md Liakat Ali, Charles C. Tappert \\
-7th IEEE International Conference on Biometrics: Theory, Applications and Systems (BTAS 2015, 45% AR) \[[pdf](/papers/Spoofing key-press latencies with a generative keystroke dynamics model.pdf)\]\[[slides](/papers/btas2015spoofing.pdf)\]\[[video](http://techtalks.tv/talks/spoofing-key-press-latencies-with-a-generative-keystroke-dynamics-model/61939/)\]
+7th IEEE International Conference on Biometrics: Theory, Applications and Systems (BTAS 2015, 45% AR) \[[pdf](/papers/Spoofing key-press latencies with a generative keystroke dynamics model.pdf)\] \[[slides](/papers/btas2015spoofing.pdf)\] \[[video](http://techtalks.tv/talks/spoofing-key-press-latencies-with-a-generative-keystroke-dynamics-model/61939/)\]
 
 * **One-handed Keystroke Biometric Identification Competition** \\
 *John V. Monaco*, Gonzalo Perez, Charles C. Tappert, Patrick Bours, Soumik Mondal, Sudalai Rajkumar, Aythami Morales, Julian Fierrez, Javier Ortega-Garcia \\
-8th IAPR International Conference on Biometrics (ICB 2015, 45% AR) \[[pdf](/papers/One-handed Keystroke Biometric Identification Competition.pdf)\]\[[poster](/papers/icb2015keystroke.pdf)\]\[[website](https://sites.google.com/a/vmonaco.com/ohkbic)\]
+8th IAPR International Conference on Biometrics (ICB 2015, 45% AR) \[[pdf](/papers/One-handed Keystroke Biometric Identification Competition.pdf)\] \[[poster](/papers/icb2015keystroke.pdf)\]
 
 * **Identifying Bitcoin Users by Transaction Behavior** \\
 *John V. Monaco* \\
-SPIE Defense, Security, and Sensing (DSS 2015) \[[pdf](/papers/Identifying Bitcoin Users by Transaction Behavior.pdf)\]\[[slides](/papers/dss2015bitcoin.pdf)\]
+SPIE Defense, Security, and Sensing (DSS 2015) \[[pdf](/papers/Identifying Bitcoin Users by Transaction Behavior.pdf)\] \[[slides](/papers/dss2015bitcoin.pdf)\]
 
 * **Classification and Authentication of One-dimensional Behavioral Biometrics** \\
 *John V. Monaco* \\
-IAPR/IEEE International Joint Conference on Biometrics (IJCB 2014, 31% AR) \[[pdf](/papers/Classification and Authentication of One-dimensional Behavioral Biometrics.pdf)\]\[[poster](/papers/ijcb2015one-dimensional.pdf)\]\[[code](https://bitbucket.org/vmonaco/ijcb2014)\]
+IAPR/IEEE International Joint Conference on Biometrics (IJCB 2014, 31% AR) \[[pdf](/papers/Classification and Authentication of One-dimensional Behavioral Biometrics.pdf)\] \[[poster](/papers/ijcb2015one-dimensional.pdf)\] \[[code](https://bitbucket.org/vmonaco/ijcb2014)\]
 
 * **Authorship Authentication Using Short Messages from Social Networking Sites** \\
 Jenny S Li, *John V. Monaco*, Li-Chiou Chen, Charles C. Tappert \\
@@ -191,7 +191,7 @@ arXiv preprint arXiv:1606.09075, 2016. \[[pdf](/papers/Robust Keystroke Biometri
 
 * **Time intervals as a Behavioral Biometric** \\
 *John V. Monaco* \\
-Doctoral Thesis. Seidenberg School of CSIS, Pace University, 2015 \[[pdf](/papers/Time Intervals as a Behavioral Biometric.pdf)\]\[[slides](/papers/dissertation2015time.pdf)\]\[[proposal](/papers/Time Intervals as a Behavioral Biometric proposal.pdf)\]
+Doctoral Thesis. Seidenberg School of CSIS, Pace University, 2015 \[[pdf](/papers/Time Intervals as a Behavioral Biometric.pdf)\] \[[slides](/papers/dissertation2015time.pdf)\] \[[proposal](/papers/Time Intervals as a Behavioral Biometric proposal.pdf)\]
 
 * **Behavioral Biometric Authentication in Human-Computer Interaction** \\
 *John V. Monaco* \\
