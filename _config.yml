@@ -2,7 +2,7 @@
 title:          Vinnie Monaco
 description:    "Assistant Professor at the Naval Postgraduate School"
 baseurl:        "/"
-url:            "https://vmonaco.github.io"
+url:            "https://vmonaco.com"
 
 # Google Analytics
 google_analytics: UA-30553125-1
@@ -31,7 +31,6 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock ]

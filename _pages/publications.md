@@ -9,6 +9,8 @@ Note: "Vinnie" is a nickname - my full name is John Vincent Monaco.
 
 For a complete list of papers, see my [Google Scholar profile](https://scholar.google.com/citations?user=iG64YJUAAAAJ).
 
+Jump to: [conference](#conference), [journal](#journal), [patents](#patents), [posters](#posters), [drafts](#drafts), [theses](#theses)
+
 # Conference
 ***
 
