@@ -59,19 +59,19 @@ See the [full list](/publications) and [Google Scholar](http://scholar.google.co
 
 * **What Are You Searching For?: A Remote Keylogging Attack on Search Engine Autocomplete** \\
 *John V. Monaco* \\
-28th USENIX Security Symposium (USENIX 2019) \[[pdf]()\] \[[code](https://github.com/vmonaco/kreep/)\]
+28th USENIX Security Symposium (USENIX 2019) \[[pdf](/papers/What Are You Searching For- A Remote Keylogging Attack on Search Engine Autocomplete.pdf)\] \[[code](https://github.com/vmonaco/kreep/)\]
 
 * **SoK: Keylogging Side Channels** \\
 *John V. Monaco* \\
-39th IEEE Symposium on Security and Privacy, 2018 \[[pdf](/papers/SoK%20-%20Keylogging%20Side%20Channels.pdf)\] \[[slides](/papers/SoK-%20Keylogging%20Side%20Channels%20slides.pdf)\]
+39th IEEE Symposium on Security and Privacy (S&P 2018) \[[pdf](/papers/SoK- Keylogging Side Channels.pdf)\]
 
 * **Factoring Integers with a Brain-Inspired Computer** \\
 *John V. Monaco*, Manuel M. Vindiola \\
-IEEE Transactions on Circuits and Systems I, 2017 \[[pdf](/papers/Factoring%20Integers%20With%20a%20Brain-Inspired%20Computer.pdf)\]
+IEEE Transactions on Circuits and Systems I, 2017 \[[pdf](/papers/Factoring Integers With a Brain-Inspired Computer.pdf)\]
 
 * **The Partially Observable Hidden Markov Model and its Application to Keystroke Dynamics** \\
 *John V. Monaco*, Charles C Tappert \\
-Pattern Recognition, 2017 \[[pdf](http://arxiv.org/pdf/1607.03854.pdf)\]
+Pattern Recognition, 2017 \[[pdf](/papers/The partially observable hidden Markov model and its application to keystroke dynamics.pdf)\]
 
 # Contact
 ***
