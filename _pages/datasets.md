@@ -3,6 +3,7 @@ layout: post
 title: "Datasets"
 author: "Vinnie"
 permalink: /datasets/
+redirect_from: "/keystroke-datasets/"
 ---
 
 To obtain access to any of the following datasets, send me an email with the following information:  

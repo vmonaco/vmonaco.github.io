@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+redirect_from: "/home/"
 ---
 
 <img align="right" height="250" width="250" src="assets/monaco.jpeg" />
