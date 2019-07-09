@@ -3,6 +3,9 @@ layout: post
 title: "Publications"
 author: "Vinnie"
 permalink: /publications/
+redirect_from:
+  - "/dissertation/"
+  - "/ijcb2014"
 ---
 
 Note: "Vinnie" is a nickname - my full name is John Vincent Monaco.
