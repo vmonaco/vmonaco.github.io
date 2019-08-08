@@ -58,7 +58,7 @@ From 2016-2018, I was a Postdoc and then Computer Scientist at the U.S. Army Res
 
 See the [full list](/publications) and [Google Scholar](http://scholar.google.com/citations?user=iG64YJUAAAAJ&hl=en).
 
-* **What Are You Searching For?: A Remote Keylogging Attack on Search Engine Autocomplete** \\
+* **What Are You Searching For? A Remote Keylogging Attack on Search Engine Autocomplete** \\
 *John V. Monaco* \\
 28th USENIX Security Symposium (USENIX 2019) \[[pdf](/papers/What Are You Searching For- A Remote Keylogging Attack on Search Engine Autocomplete.pdf)\] \[[code](https://github.com/vmonaco/kreep/)\]
 
