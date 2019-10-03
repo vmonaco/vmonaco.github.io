@@ -19,7 +19,7 @@ Jump to: [conference](#conference), [journal](#journal), [patents](#patents), [p
 
 * **What Are You Searching For? A Remote Keylogging Attack on Search Engine Autocomplete** \\
 *John V. Monaco* \\
-28th USENIX Security Symposium (USENIX 2019) \[[pdf](/papers/What Are You Searching For- A Remote Keylogging Attack on Search Engine Autocomplete.pdf)\] \[[code](https://github.com/vmonaco/kreep/)\]
+28th USENIX Security Symposium (USENIX 2019, 16% AR) \[[pdf](/papers/What Are You Searching For- A Remote Keylogging Attack on Search Engine Autocomplete.pdf)\] \[[code](https://github.com/vmonaco/kreep/)\]
 
 * **Feasibility of a Keystroke Timing Attack on Search Engines with Autocomplete** \\
 *John V. Monaco* \\
