@@ -26,18 +26,26 @@ From 2016-2018, I was a Postdoc and then Computer Scientist at the U.S. Army Res
 * Kasey Miller (measuring reliability in systems of systems)
 
 ### MS students
-* Maj Ryan Keller (modeling trust between human and AI)
 * LT Mark Veazey (Internet-scale keystroke biometrics and privacy)
 * LT Rouben Azad (modeling ship behavior using AIS)
 * LTJG Peter Goodwin (obfuscating keystroke dynamics)
 * Michael Walker (author identification through text composition)
+* CPO Cassondra Bullock / PO1 Jeana Verkempinck / PO1 Alexander Arnell (information leakage in chat application network traffic)
+* Maj Yao Wen Loy (Air Force, Singapore) / Zhenfeng Lee (Singapore) (behavioral Bitcoin address clustering heuristics)
+* LT Greg Bunder / LT Michael Laws (network traffic anomaly detection)
+* LCDR John Smith / LCDR Nicholas Hughes (digital signatures on darknet marketplaces)
+* LCDR Brett Rajchel (network traffic monitoring for insider threat detection)
+* Maj Eric Kim (biologically-inspired automatic target detection, classification, and tracking)
+* LT Xisen Tian (radar imagery deep fakes through a man-in-the-middle attack)
 
 ### MS Alumni
+* Maj Ryan Keller (modeling trust between human and AI)
 * LCDR Nathan Richardson (eliciting identifying behavior from a social engineer)
 * Maj Lucas Burke  (eliciting identifying behavior from a social engineer)
 
 # Teaching
 ***
+* AY20 spring: Artificial Intelligence (CS3310)
 * AY20 fall: Artificial Intelligence (CS3310)
 * AY19 spring: Artificial Intelligence (CS3310) and Machine Learning/Data Mining (CS4315)
 * AY19 winter: Artificial Intelligence (CS3310)
