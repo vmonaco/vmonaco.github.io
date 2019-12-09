@@ -12,9 +12,13 @@ From 2016-2018, I was a Postdoc and then Computer Scientist at the U.S. Army Res
 
 # News
 ***
+* Paper on covert impairments in human computer interaction conditionally accepted to CHI'20
+* I'm giving an invited talk on big data and privacy at 7pm on February 5, 2020 at the Sunset Center in Carmel, CA. The event is hosted by the [Carmel Public Library Foundation](https://carmelpubliclibraryfoundation.org/events/upcoming-events-activities/) and open to the public.
+
+# Old news
 * Autocomplete side channel paper accepted to USENIX'19
 * Member of the [WTMC'19](http://wtmc.info/index.html) Program Committee
-* Gave an invited talk at the 20th Monterey Workshop on Cyber
+* Invited talk at the 20th Monterey Workshop on Cyber (November, 2018)
 * Joined NPS as an Assistant Professor of Computer Science (August, 2018)
 * SoK paper on keylogging side channels accepted to [S&P'18](https://www.ieee-security.org/TC/SP2018/)
 * Best Paper @ [ISCAS'17](http://iscas2017.org/) for work on [factoring integers with a neuromorphic processor](https://arxiv.org/pdf/1703.03768.pdf)
