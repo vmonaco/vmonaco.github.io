@@ -10,9 +10,8 @@ To obtain access to any of the following datasets, send me an email with the fol
 
 1.  Your name and institution
 2.  The dataset(s) you would like access to
-3.  Your public ssh key or Bitbucket username
 
-Your public key or Bitbucket account will then be added to the repository. Access is provided under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). In short, the datasets are intended for research and cannot be used for commercial applications. More information is located on each dataset wiki page.
+You will then be added to the repository. I approve all requests, I just like to keep track of how the data is used and track/fix any issues that might arise with the data. Access is provided under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). In short, the datasets are intended for research and cannot be used for commercial applications. More information is located on each dataset wiki page.
 
 * [Perez keystroke](https://bitbucket.org/vmonaco/dataset-perez-keystroke) \\
 Users typing with one hand and both hands to simulate an obstruction. See also the [OhKBIC data](https://bitbucket.org/vmonaco/dataset-ohkbic).  
