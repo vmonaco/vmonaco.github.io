@@ -12,7 +12,7 @@ From 2016-2018, I was a Postdoc and then Computer Scientist at the U.S. Army Res
 
 # News
 ***
-* Paper on covert impairments in human computer interaction conditionally accepted to CHI'20
+* Paper on covert impairments in human computer interaction accepted to CHI'20
 * I'm giving an invited talk on big data and privacy at 7pm on February 5, 2020 at the Sunset Center in Carmel, CA. The event is hosted by the [Carmel Public Library Foundation](https://carmelpubliclibraryfoundation.org/events/upcoming-events-activities/) and open to the public.
 
 # Old news
@@ -65,6 +65,10 @@ From 2016-2018, I was a Postdoc and then Computer Scientist at the U.S. Army Res
 ***
 
 See the [full list](/publications) and [Google Scholar](http://scholar.google.com/citations?user=iG64YJUAAAAJ&hl=en).
+
+* **Bug or Feature? Covert Impairments to Human Computer Interaction** \\
+*John V. Monaco* \\
+2020 ACM Conference on Human Factors in Computing Systems (CHI 2020) \[[pdf](/papers/Bug or Feature - Covert Impairments to Human Computer Interaction.pdf)\]
 
 * **What Are You Searching For? A Remote Keylogging Attack on Search Engine Autocomplete** \\
 *John V. Monaco* \\
