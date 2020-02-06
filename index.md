@@ -18,7 +18,7 @@ From 2016-2018, I was a Postdoc and then Computer Scientist at the U.S. Army Res
 # Old news
 * Invited talk on big data and privacy, hosted by the [Carmel Public Library Foundation](https://carmelpubliclibraryfoundation.org/events/upcoming-events-activities/) at the Sunset Center in Carmel, CA \[[slides](/slides/Big_data_big_brother.pdf)\]
 * Autocomplete side channel paper accepted to [USENIX'19](https://www.usenix.org/conference/usenixsecurity19)
-* Member of the [WTMC'19](http://wtmc.info/index.html) Program Committee
+* Member of the [WTMC'19](http://wtmc.info/index2019.html) Program Committee
 * Invited talk at the 20th Monterey Workshop on Cyber (November, 2018)
 * Joined NPS as an Assistant Professor of Computer Science (August, 2018)
 * SoK paper on keylogging side channels accepted to [S&P'18](https://www.ieee-security.org/TC/SP2018/)
