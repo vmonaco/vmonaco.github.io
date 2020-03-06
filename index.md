@@ -69,7 +69,7 @@ See the [full list](/publications) and [Google Scholar](http://scholar.google.co
 
 * **Bug or Feature? Covert Impairments to Human Computer Interaction** \\
 *John V. Monaco* \\
-2020 ACM Conference on Human Factors in Computing Systems (CHI 2020) \[[pdf](/papers/Bug or Feature - Covert Impairments to Human Computer Interaction.pdf)\]
+2020 ACM Conference on Human Factors in Computing Systems (CHI 2020) **Best Paper Award (top 1%)** \[[pdf](/papers/Bug or Feature - Covert Impairments to Human Computer Interaction.pdf)\]
 
 * **What Are You Searching For? A Remote Keylogging Attack on Search Engine Autocomplete** \\
 *John V. Monaco* \\
