@@ -13,6 +13,7 @@ From 2016-2018, I was a Postdoc and then Computer Scientist at the U.S. Army Res
 # News
 ***
 * Paper on covert impairments in human computer interaction accepted to [CHI'20](https://chi2020.acm.org/)
+* Member of the [SecureComm'20](http://securecomm.org/call-for-papers/) Program Committee
 * Member of the [WTMC'20](http://wtmc.info/index.html) Program Committee
 
 # Old news
@@ -28,11 +29,7 @@ From 2016-2018, I was a Postdoc and then Computer Scientist at the U.S. Army Res
 ***
 
 ### MS students
-* Rouben Azad (modeling ship behavior using AIS)
-* Peter Goodwin (obfuscating keystroke dynamics)
-* Michael Walker (author identification through text composition)
 * Cassondra Bullock / Jeana Verkempinck / Alexander Arnell (information leakage in chat application network traffic)
-* Yao Wen Loy (Air Force, Singapore) / Zhenfeng Lee (Singapore) (behavioral Bitcoin address clustering heuristics)
 * Greg Bunder / Michael Laws (network traffic anomaly detection)
 * John Smith / Nicholas Hughes (digital signatures on darknet marketplaces)
 * Brett Rajchel (network traffic monitoring for insider threat detection)
@@ -40,6 +37,10 @@ From 2016-2018, I was a Postdoc and then Computer Scientist at the U.S. Army Res
 * Xisen Tian (radar imagery deep fakes through a man-in-the-middle attack)
 
 ### MS Alumni
+* Yao Wen Loy (Air Force, Singapore) / Zhenfeng Lee (Singapore) (behavioral Bitcoin address clustering heuristics)
+* Rouben Azad (modeling ship behavior using AIS)
+* Peter Goodwin (obfuscating keystroke dynamics)
+* Michael Walker (author identification through text composition)
 * Mark Veazey (Internet-scale keystroke biometrics and privacy)
 * Ryan Keller (modeling trust between human and AI)
 * Nathan Richardson / Lucas Burke (eliciting identifying behavior from a social engineer)
@@ -54,6 +55,7 @@ From 2016-2018, I was a Postdoc and then Computer Scientist at the U.S. Army Res
 
 # Awards
 ***
+* Best paper, CHI'20
 * Best Paper, ISCAS'17
 * Best Paper, UEMCON'17
 * Runner-up Neuromorph of the Year, [Telluride NCEW'16](http://telluride.iniforum.ch/2016/)
