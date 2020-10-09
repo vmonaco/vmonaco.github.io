@@ -31,7 +31,7 @@ Aythami Morales, Alejandro Acien, Julian Fierrez, *John V Monaco*, Ruben Tolosan
 
 * **General Purpose Computation with Spiking Neural Networks: Programming, Design Principles, and Patterns**\\
 *John V Monaco*, Ryad B Benosman \\
-2020 Neuro-inspired Computational Elements Workshop (NICE 2020) \[[pdf](/papers/General Purpose Computation with Spiking Neural Networks- Programming Design Principles and Patterns)\]
+2020 Neuro-inspired Computational Elements Workshop (NICE 2020) \[[pdf](/papers/General Purpose Computation with Spiking Neural Networks- Programming Design Principles and Patterns.pdf)\]
 
 * **Bug or Feature? Covert Impairments to Human Computer Interaction** \\
 *John V. Monaco* \\
