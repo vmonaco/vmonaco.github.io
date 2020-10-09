@@ -17,6 +17,22 @@ Jump to: [conference](#conference), [journal](#journal), [patents](#patents), [p
 # Conference
 ***
 
+**Temporal Behavior in Network Traffic as a Basis for Insider Threat Detection** \\
+Brett Rajchel, *John V Monaco*, Gurminder Singh, Angela Hu, Jarrod Shingleton and Thomas Anderson \\
+2020 IEEE Symposium Series on Computational Intelligence (SSCI 2020) \[[pdf](/papers/Temporal Behavior in Network Traffic as a Basis for Insider Threat Detection.pdf)\]
+
+**TypeNet: Scaling up Keystroke Biometrics** \\
+Alejandro Acien, *John V Monaco*, Aythami Morales, Ruben Vera-Rodriguez, Julian Fierrez \\
+2020 International Joint Conference on Biometrics (IJCB 2020, 39.3% AR) \[[pdf](https://arxiv.org/pdf/2004.03627.pdf)\]
+
+**Keystroke Biometrics in Response to Fake News Propagation in a Global Pandemic** \\
+Aythami Morales, Alejandro Acien, Julian Fierrez, *John V Monaco*, Ruben Tolosana, Ruben Vera-Rodriguez, Javier Ortega-Garcia \\
+2020 IEEE Annual Computers, Software, and Applications Conference (COMPSAC 2020) \[[pdf](https://arxiv.org/pdf/2005.07688.pdf)\]
+
+**General Purpose Computation with Spiking Neural Networks: Programming, Design Principles, and Patterns**
+*John V Monaco*, Ryad B Benosman \\
+2020 Neuro-inspired Computational Elements Workshop (NICE 2020) \[[pdf](/papers/General Purpose Computation with Spiking Neural Networks- Programming Design Principles and Patterns)\]
+
 * **Bug or Feature? Covert Impairments to Human Computer Interaction** \\
 *John V. Monaco* \\
 2020 ACM Conference on Human Factors in Computing Systems (CHI 2020, 24.3% AR) **Best Paper Award (top 1%)** \[[pdf](/papers/Bug or Feature - Covert Impairments to Human Computer Interaction.pdf)\]

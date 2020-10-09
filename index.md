@@ -12,11 +12,16 @@ From 2016-2018, I was a Postdoc and then Computer Scientist at the U.S. Army Res
 
 # News
 ***
-* Paper on covert impairments in human computer interaction accepted to [CHI'20](https://chi2020.acm.org/)
+* Program Co-Chair of the 2021 [SADFE](http://sadfe.org/) Workshop
+* Best Paper @ [CHI'20](https://chi2020.acm.org/) for work in [covert impairments in HCI](https://dl.acm.org/doi/abs/10.1145/3313831.3376832)
 * Member of the [SecureComm'20](http://securecomm.org/call-for-papers/) Program Committee
-* Member of the [WTMC'20](http://wtmc.info/index.html) Program Committee
 
 # Old news
+***
+* Paper on scaling up keystroke biometrics accepted to [IJCB'20](https://ieee-biometrics.org/ijcb2020/)
+* Member of the [WTMC'20](http://wtmc.info/index.html) Program Committee
+* Invited talk for the Rotary Club of Corral de Tierra (July 2020)
+* Paper on covert impairments in human computer interaction accepted to [CHI'20](https://chi2020.acm.org/)
 * Invited talk at the Sunset Center (Carmel, CA), hosted by the [Carmel Public Library Foundation](https://carmelpubliclibraryfoundation.org/events/upcoming-events-activities/) (February 2020) \[[slides](/slides/Big_data_big_brother.pdf)\]
 * Autocomplete side channel paper accepted to [USENIX'19](https://www.usenix.org/conference/usenixsecurity19)
 * Member of the [WTMC'19](http://wtmc.info/index2019.html) Program Committee
@@ -29,14 +34,21 @@ From 2016-2018, I was a Postdoc and then Computer Scientist at the U.S. Army Res
 ***
 
 ### MS students
+* Andy Baierwalter (radar network traffic analysis)
+* Chris Daves (user identification over VoIP)
+* Fritz Hain (circumventing digital censorship)
+* Harlan Cheer (decision confidence estimation in HCI)
+* Jamie Francona (deception detection in virtual environments)
+* Jihye Kim (interactive web application side channels)
+* Ray Blockmon / Natasha Niemann (network traffic insider threat detection)
+
+### MS Alumni
 * Cassondra Bullock / Jeana Verkempinck / Alexander Arnell (information leakage in chat application network traffic)
 * Greg Bunder / Michael Laws (network traffic anomaly detection)
 * John Smith / Nicholas Hughes (digital signatures on darknet marketplaces)
 * Brett Rajchel (network traffic monitoring for insider threat detection)
 * Eric Kim (biologically-inspired automatic target detection, classification, and tracking)
 * Xisen Tian (radar imagery deep fakes through a man-in-the-middle attack)
-
-### MS Alumni
 * Yao Wen Loy (Air Force, Singapore) / Zhenfeng Lee (Singapore) (behavioral Bitcoin address clustering heuristics)
 * Rouben Azad (modeling ship behavior using AIS)
 * Peter Goodwin (obfuscating keystroke dynamics)
@@ -47,6 +59,8 @@ From 2016-2018, I was a Postdoc and then Computer Scientist at the U.S. Army Res
 
 # Teaching
 ***
+* AY21 spring: Artificial Intelligence (CS3310)
+* AY21 fall: Artificial Intelligence (CS3310)
 * AY20 spring: Artificial Intelligence (CS3310)
 * AY20 fall: Artificial Intelligence (CS3310)
 * AY19 spring: Artificial Intelligence (CS3310) and Machine Learning/Data Mining (CS4315)
