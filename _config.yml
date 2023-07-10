@@ -1,0 +1,37 @@
+# Site settings
+title:          Vinnie Monaco
+description:    "Assistant Professor at the Naval Postgraduate School"
+baseurl:        "/"
+url:            "https://vmonaco.com"
+
+# Google Analytics
+google_analytics: UA-30553125-1
+
+# Author
+author:
+  name:         Vinnie Monaco
+  url:          https://vmonaco.com
+  email:        contact@vmonaco.com
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock ]
